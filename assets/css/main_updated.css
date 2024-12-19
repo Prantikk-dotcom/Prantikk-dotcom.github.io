@@ -2712,3 +2712,10 @@ input, select, textarea {
     margin: 0 auto;
     padding: 20px 0;
 }
+
+@media (max-width: 600px) {
+    #video-section {
+        padding: 15px 0; /* Adjust padding for smaller screens */
+        width: 100%; /* Ensure it takes full width */
+    }
+}
