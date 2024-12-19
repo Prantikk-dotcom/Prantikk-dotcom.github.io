@@ -1,0 +1,14 @@
+[
+    {
+        "title": "This is a <strong>Featured Articles</strong> Or it's new.",
+        "imgSrc": "images/pic04.jpg",
+        "subtitle": "Something that would be updated everyday",
+        "content": "Phasellus laoreet massa id justo mattis pharetra..."
+    },
+    {
+        "title": "This is space for another Featured Article, or Research.",
+        "imgSrc": "images/pic05.jpg",
+        "subtitle": "Doesn't have to be new, but Something that says <strong> Important </strong>",
+        "content": "Phasellus laoreet massa id justo mattis pharetra..."
+    }
+]
